@@ -19,13 +19,6 @@
   transform: all 0.2s linear;
 }
 
-.form {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
 html {
   font-size: 62.5%;
   overflow-x: hidden;
@@ -590,7 +583,7 @@ header .icons #menu-bars {
   border: 0.1rem solid rgba(0, 0, 0, 0.2);
   background: #fff;
   padding: 1.5rem;
-  margin: o auto;
+  margin: 0 auto;
 }
 
 .order form .inputBox {
