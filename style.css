@@ -19,6 +19,13 @@
   transform: all 0.2s linear;
 }
 
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
 html {
   font-size: 62.5%;
   overflow-x: hidden;
